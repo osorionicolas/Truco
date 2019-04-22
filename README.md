@@ -1,1 +1,1 @@
-# C-Sharp---Truco
+# Truco
